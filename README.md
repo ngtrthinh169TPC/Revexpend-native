@@ -4,14 +4,17 @@
 
 Income - Outcome managing app, which I called "Revexpend" - revenues and expeditures.
 
-I had 1 Revexpend app before, but build with Expo and doesn't have much options to expand. So this is the React Native implementation of that old project.
-Also, this is my project trying to build and go for production, not a "homework", so I will cut out some out-of-scope things.
+This is a simple revenue - expenditure managing tool. REALLY SIMPLE.
+
+I had 1 [Revexpend app](https://github.com/ngtrthinh169TPC/revexpend) before, but build with Expo and doesn't have many options to expand. So this is the React Native implementation of that old project.
+
+Also, this is my project trying to build and go for productions, not a "homework", so I will cut out some out-of-scope things.
 
 # Development instructions
 
 ## Requirements:
 
-- Basically whatever it takes to run a React Native project.
+- _Basically whatever it takes to run a React Native project._
 - Nodejs
 - Java SDK
 - Android Studio
@@ -20,8 +23,8 @@ Also, this is my project trying to build and go for production, not a "homework"
 ## Guide:
 
 - Cloning
-  "git clone https://github.com/ngtrthinh169TPC/RevexpendNative"
+  `git clone https://github.com/ngtrthinh169TPC/RevexpendNative`
 - Install packages
-  "npm install" / "yarn"
+  `npm install` or `yarn`
 - Run server
-  "npx react-native run-android" / "npx react-native run-ios"
+  `npx react-native run-android` or `npx react-native run-ios`
